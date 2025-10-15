@@ -30,7 +30,7 @@ My focus lies at the intersection of **embedded electronics**, **signal processi
 - Design and testing of **embedded electronics** and **measurement platforms**.  
 - Emphasis on **scientific rigor, autonomy**, and **problem-solving** in a research environment.
 
-> “Measuring is easy; making the *right* measurement is the real craft.” — C. Dolabdjian
+> “Measuring is easy; doing the *right* measurement is the real craft.” — C. Dolabdjian
 
 ### 🧰 Lidl / McDonald’s (2021–2024)
 **Team Member (part-time during studies)**  

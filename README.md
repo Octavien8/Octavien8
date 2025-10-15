@@ -9,31 +9,31 @@ My focus lies at the intersection of **embedded electronics**, **signal processi
 
 ## 🚀 About Me
 
-- 🎓 **Engineering student (GPSE - ENSICAEN)**  
+- **Engineering student (GPSE - ENSICAEN)**  
   Focused on *electronics, signal acquisition, and wireless communication systems*.
-- 🧠 Strong background in **measurement systems, magnetometry**, and **data processing**.
-- 💻 Developer in **Python**, **C++**, and **VHDL** (FPGA – Xilinx Artix-7).  
-- 🔬 Experience in **IoT architectures**, **LoRa / MQTT**, and **data automation**.
-- 🧰 Passionate about building robust, efficient systems that connect sensors, signals, and science.
+- Strong background in **measurement systems, magnetometry**, and **data processing**.
+- Developer in **Python**, **C++**, and **VHDL** (FPGA – Xilinx Artix-7).  
+- Experience in **IoT architectures**, **LoRa / MQTT**, and **data automation**.
+- Passionate about building robust, efficient systems that connect sensors, signals, and science.
 
 > “La science commence par la curiosité, et l’ingénierie la transforme en réalité.”
 
 ---
 
-## 🧩 Technical Areas
+## Technical Areas
 
 | Domain | Skills |
 |:--|:--|
-| ⚙️ **Embedded Systems** | FPGA (Artix-7), ADCs 24 bits, SPI/I²C, microcontrollers |
+| **Embedded Systems** | FPGA (Artix-7), ADCs 24 bits, SPI/I²C, microcontrollers |
 | 🧲 **Magnetometry** | Noise modeling, Hall and GMR sensors, magnetic field measurement |
 | 📈 **Signal Processing** | Spectral density, filtering, data analysis, Python automation |
 | 📡 **IoT & Communication** | LoRa, MQTT, TCP/IP, satellite demonstrators |
-| 💻 **Software Development** | Python, C++, Mathematica, MATLAB |
-| 🧰 **Tools & Workflow** | Git/GitHub, VS Code, Obsidian, TeXworks, 3D Design & Printing |
+| **Software Development** | Python, C++, Mathematica, MATLAB |
+| **Tools & Workflow** | Git/GitHub, VS Code, Obsidian, TeXworks, 3D Design & Printing |
 
 ---
 
-## 🧪 Professional Experience
+## Professional Experience
 
 ### 🔬 GREYC — eV-Technologies (2023–2025)
 **Technician / Research Assistant (Alternance)**
@@ -49,12 +49,12 @@ My focus lies at the intersection of **embedded electronics**, **signal processi
 
 ---
 
-## 🎓 Education
+## Education
 
-- 🧠 **ENSICAEN – GPSE (Génie Physique et Systèmes Embarqués)**  
+-  **ENSICAEN – GPSE (Génie Physique et Systèmes Embarqués)**  
   2024 – present — Focus on *embedded electronics, signal processing, and wireless communication*.
 
-- ⚗️ **BUT Mesures Physiques – IUT de Caen**  
+-  **BUT Mesures Physiques – IUT de Caen**  
   2021 – 2024 — Specialization in *instrumentation, metrology, and scientific data analysis.*
 
 ---
@@ -63,7 +63,7 @@ My focus lies at the intersection of **embedded electronics**, **signal processi
 
 > **C. Dolabdjian, O. Requier, C. Cordier**,  
 > *“From Theory to Experiment: Planar Hall MagnetoResistance Equivalent Magnetic Noise Evaluation,”*  
-> Submitted to **Sensors and Actuators A: Physical (2025)**.  
+> Submitted to **Sensors and Actuators A: Physical (Submitted on 2025)**.  
 
 ---
 

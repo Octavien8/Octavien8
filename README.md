@@ -44,7 +44,7 @@ My focus lies at the intersection of **embedded electronics**, **signal processi
 | Domain | Skills |
 |:--|:--|
 | **Embedded Systems** | FPGA (Artix-7), ADCs 24 bits, SPI/I²C, microcontrollers |
-| 🧲 **Magnetometry** | Hall / GMR / PHMR sensors, low-noise acquisition, field mapping |
+| 🧲 **Magnetometry** | Hall / PHMR sensors, low-noise acquisition, field mapping |
 | 📈 **Signal Processing** | Spectral density, filtering, data analysis, Python automation |
 | 📡 **IoT & Communication** | LoRa, MQTT, TCP/IP, satellite demonstrators |
 | **Software Development** | Python, C++, Mathematica, MATLAB |

@@ -44,7 +44,7 @@ My focus lies at the intersection of **embedded electronics**, **signal processi
 | Domain | Skills |
 |:--|:--|
 | **Embedded Systems** | FPGA (Artix-7), ADCs 24 bits, SPI/I²C, microcontrollers |
-| 🧲 **Magnetometry** | Hall / PHMR sensors, low-noise acquisition, field mapping |
+| 🧲 **Magnetometry** | Hall / PHMR sensors, low-noise acquisition|
 | 📈 **Signal Processing** | Spectral density, filtering, data analysis, Python automation |
 | 📡 **IoT & Communication** | LoRa, MQTT, TCP/IP, satellite demonstrators |
 | **Software Development** | Python, C++, Mathematica, MATLAB |
@@ -117,6 +117,6 @@ IoT architecture design for scientific measurement systems
 
 💻 GitHub: github.com/Octavien8
 
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/VHDL-6C3483?style=for-the-badge"/> <img src="https://img.shields.io/badge/FPGA-1F618D?style=for-the-badge"/> <img src="https://img.shields.io/badge/LoRa-00AEEF?style=for-the-badge&logo=lora&logoColor=white"/> <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Octavien8&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/VHDL-6C3483?style=for-the-badge"/> <img src="https://img.shields.io/badge/FPGA-1F618D?style=for-the-badge"/> <img src="https://img.shields.io/badge/LoRa-00AEEF?style=for-the-badge&logo=lora&logoColor=white"/> </p>
 
 ⭐️ Thanks for visiting my profile
